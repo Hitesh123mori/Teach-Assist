@@ -18,6 +18,11 @@ Our project focuses on developing a **Customizable Classroom Management Tool** d
 
 ---
 
+📸 **App Screenshots**  
+Take a look at the key features and interface of TeachAssists in action.
+
+🔗 [Click here to view the TeachAssists screenshots](https://drive.google.com/file/d/1aOhKV4qbhwLtuCDw4JAINEMU6N-kjR4R/view?usp=sharing)
+
 ## Features Implementation Status
 
 ### 1. Attendance Tracking Using Geolocation
